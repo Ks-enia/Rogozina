@@ -13,12 +13,16 @@ public class IsEven {
 
     public static String isEven(int n) {
         // TODO implement
-        if (n % 10 == 0);;
+        if (n % 10 == 0){
+
+
 
 
         // Допустимые строки: "Четное" или "Нечетное"
 
-        return "Четное";
+        return "Четное";}
+        else return "нечетное";
+
     }
 
 }
