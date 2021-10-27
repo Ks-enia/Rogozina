@@ -4,6 +4,7 @@ import java.util.Objects;
 
 public class Book {
     String author;
+
     String title;
 
     public Book(String author, String title) {

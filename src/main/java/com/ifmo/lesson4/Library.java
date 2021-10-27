@@ -32,6 +32,7 @@ import java.util.Map;
  * Например:
  *
  * <pre>
+ *
  *     Library library = new Library(2);
  *     library.put(new Book("Stephen King", "Shining"), 2); // return true
  *
